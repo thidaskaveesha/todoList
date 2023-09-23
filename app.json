@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "TODO_APP",
+    "slug": "TODO_APP",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/mainimg.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/mainimg.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/mainimg.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/mainimg.png"
+    }
+  }
+}
